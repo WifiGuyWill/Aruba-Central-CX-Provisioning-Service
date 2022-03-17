@@ -30,7 +30,7 @@ This service helps to auotmate the provision process for CX switches in Aruba Ce
 # Install Instructions:
 
   1. Copy the files to host
-  2. Open dockerfile and add the Aruba Central Credentials, Webhook Token, and Central Group new CX switches should be placed into (CX_UI_GROUP): 
+  2. Open dockerfile and add the Aruba Central Credentials, Webhook Token, and Central Group (CX_UI_GROUP) new CX switches should be placed into:
 
     > ENV USERNAME=xxxxxxxxxx@email.com  
     > ENV PASSWORD=xxxxxxxxxx  
