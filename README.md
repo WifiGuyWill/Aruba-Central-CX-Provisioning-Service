@@ -1,7 +1,7 @@
 # Service to Auto Provision CX Switches in Aruba Central
 
 
-![GAPS](https://github.com/WifiGuyWill/Geo-Auto-Provsioning-Service/blob/GAPS-Container/img/GAPS.jpg?raw=true "ACCPS")
+![ACCPS](https://github.com/WifiGuyWill/Aruba-Central-CX-Provisioning-Service/blob/main/img/ACCPS.jpg?raw=true "ACCPS")
 
 This service helps to auotmate the provision process for CX switches in Aruba Central.
 
