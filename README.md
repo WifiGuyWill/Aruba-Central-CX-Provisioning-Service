@@ -8,13 +8,13 @@ This service helps to auotmate the provision process for CX switches in Aruba Ce
 
 # How It Works:
 
-*Verify CX switches are added to Central device inventory and subscription is applied
-*Assign CX switches to the pre-provisioning template group
-*Switch contacts Aruba Central and get the initial config
-*Webhook is sent to the CX provisioning service
-*Provisioning service sends API POST message to move the CX switch into the UI group
-*Switch is moved into the UI group and retains the initial config from the template
-*Switch is now fully configured and can be updated/modified using UI or MultiEdit
+  * Verify CX switches are added to Central device inventory and subscription is applied
+  * Assign CX switches to the pre-provisioning template group
+  * Switch contacts Aruba Central and get the initial config
+  * Webhook is sent to the CX provisioning service
+  * Provisioning service sends API POST message to move the CX switch into the UI group
+  * Switch is moved into the UI group and retains the initial config from the template
+  * Switch is now fully configured and can be updated/modified using UI or MultiEdit
 
 
 # First Steps:
