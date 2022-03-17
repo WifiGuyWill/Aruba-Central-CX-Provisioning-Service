@@ -50,4 +50,4 @@ This container includes gunicorn web-server, modify the wsgi config as needed.
 
 
 Question - Feel free to contact me:   
-#(c) 2021 Will Smith - WILL@WIFI-GUYS.COM
+#(c) 2022 Will Smith - WILL@WIFI-GUYS.COM
