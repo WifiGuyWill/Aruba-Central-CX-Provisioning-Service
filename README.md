@@ -3,7 +3,7 @@
 
 ![ACCPS](https://github.com/WifiGuyWill/Aruba-Central-CX-Provisioning-Service/blob/main/img/ACCPS.jpg?raw=true "ACCPS")
 
-This service helps to auotmate the provision process for CX switches in Aruba Central.
+This service helps to automate the provision process for CX switches in Aruba Central.
 
 
 # How It Works:
